@@ -1,0 +1,6 @@
+use_frameworks!
+target 'RNGestureHandler_Tests' do
+  pod 'RNGestureHandler', :path => '../'
+  
+  
+end
